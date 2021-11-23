@@ -1,0 +1,39 @@
+.imageClass img{
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.searchBox{
+	background-color: #EEEEEE;
+	width: 1172.090px;
+	height: 60px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+.searchText,.Search{
+	margin: 0;
+}
+button{
+	    align-items: flex-start;
+    text-align: center;
+}
+#customers{
+  border-collapse: collapse;
+}
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: #04AA6D;
+}
+#customers th {
+	border: 2px solid white;
+}
+ul li {
+	list-style: none;
+	text-align: center;
+}
+table{
+margin-left: auto;
+margin-right: auto;
+}
